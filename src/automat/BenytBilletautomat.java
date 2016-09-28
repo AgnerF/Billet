@@ -1,6 +1,6 @@
 /**
  * Billetautomat for Eclipse Veterantog
- * Version 2.01
+ * Version 2.03
  * Skrevet af: Agner Fog
  * Dato: 10 Sept. 2016
  */
