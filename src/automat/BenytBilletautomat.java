@@ -1,6 +1,6 @@
 /**
  * Billetautomat for Eclipse Veterantog
- * Version 2.07
+ * Version 2.10
  * Skrevet af: Agner Fog
  * Dato: 10 Sept. 2016
  */
@@ -17,7 +17,7 @@ public class BenytBilletautomat
 		java.util.Scanner tastatur = new java.util.Scanner(System.in);  // forbered input
 
 		System.out.println("Eclipse Veteranjernbaneklub");
-		System.out.println("Prøv vores gamle veterantog!");
+		System.out.println("Prøv vores helt nye veterantog!");
 		System.out.println();
 		
 		while (true) {
